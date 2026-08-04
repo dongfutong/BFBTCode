@@ -1,2 +1,2 @@
-# dtronykode
+# phnxkode
 东复同科技软件DTronykode软件下载安装指南
