@@ -1,5 +1,12 @@
-# Guía de BFBTCode
+# Guía de usuario de BFBTCode
 
-Descarga el instalador correcto desde [Releases](../../releases) y sigue la [guía de instalación](../../docs/install/README.md). Inicia Desktop, inicia sesión, selecciona una carpeta de trabajo y describe la tarea. Revisa las acciones sobre archivos, comandos y red.
+Sitio oficial: <https://www.dtrony.com>
 
-Configura idioma, modelo, API Key, carpeta y permisos en Ajustes. Compra Tokens únicamente desde la página oficial y nunca publiques contraseñas, claves ni Tokens. Informa problemas en un Issue sin datos sensibles.
+Descargue el instalador desde [Releases](../../releases) y siga la [guía de instalación](../../docs/install/README.md). No descargue ni compile el código fuente.
+
+- Windows: BFBT Code Desktop 1.0.0 (`.msi`)
+- Linux: BFBT Code TUI 1.0.0 (`bfbtcodetui`)
+- Android: DTworkeasy 1.0.6 (`.apk`)
+- macOS / iOS: aún no disponible
+
+Inicie sesión con la cuenta oficial de Dongfutong. BFBT Code requiere prueba o membresía; DTworkeasy es gratuito tras el registro.
