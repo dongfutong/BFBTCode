@@ -12,6 +12,14 @@ BFBTCode（BFBT Code）是东复同科技面向写代码、学习和工作的 AI
 4. 阅读 [登录说明](docs/login/README.md)，用官网账号登录客户端。
 5. 在设置中填写大模型 API Key，然后开始使用 [使用说明](docs/usage/README.md)。
 
+
+## 界面截图
+
+| | |
+|:---:|:---:|
+| ![主界面](assets/screenshots/desktop-ui/01-main.png) | ![远程连接](assets/screenshots/desktop-ui/02-remote.png) |
+| ![活动面板](assets/screenshots/desktop-ui/03-activity.png) | ![设置](assets/screenshots/desktop-ui/04-settings.png) |
+
 ## 当前安装包（与官网一致）
 
 最新 Release：[`v1.0.8.26102008`](https://github.com/dongfutong/BFBTCode/releases/tag/v1.0.8.26102008)
