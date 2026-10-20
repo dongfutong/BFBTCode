@@ -14,12 +14,12 @@ BFBTCode（BFBT Code）是东复同科技面向写代码、学习和工作的 AI
 
 ## 当前安装包（与官网一致）
 
-最新 Release：[`v1.0.8.26101623`](https://github.com/dongfutong/BFBTCode/releases/tag/v1.0.8.26101623)
+最新 Release：[`v1.0.8.26102008`](https://github.com/dongfutong/BFBTCode/releases/tag/v1.0.8.26102008)
 
 | 系统 | 软件 | 版本 | 文件 |
 |---|---|---|---|
-| Windows 10/11 64 位 | BFBT Code 桌面版 | 1.0.8.26101623 | `BFBTcode_1.0.8.26101623_x64_en-US.msi` |
-| macOS Apple Silicon | BFBT Code 桌面版 | 1.0.8.26101708 | `BFBTcode_1.0.8.26101708_aarch64.dmg` |
+| Windows 10/11 64 位 | BFBT Code 桌面版 | 1.0.8.26102008 | `BFBTcode_1.0.8.26102008_x64_en-US.msi` |
+| macOS Apple Silicon | BFBT Code 桌面版 | 1.0.8.26102009 | `BFBTcode_1.0.8.26102009_aarch64.dmg` |
 | Linux x86_64 | BFBT Code 终端版（TUI） | 见下方一行安装 | 推荐 `install-tui.sh`；Release 亦附 `bfbtcodetui-linux-x86_64.tar.gz` |
 | Android | DTworkeasy | 见独立仓库 | [DTworkeasy-Mobile](https://github.com/dongfutong/DTworkeasy-Mobile/releases) |
 | Bridge / 配对 | DTworkeasy Bridge | 见独立仓库 | [DTworkeasy-Bridge](https://github.com/dongfutong/DTworkeasy-Bridge/releases) |
