@@ -30,7 +30,7 @@ BFBTCode（BFBT Code）是东复同科技面向写代码、学习和工作的 AI
 | macOS Apple Silicon | BFBT Code 桌面版 | 1.0.8.26102009 | `BFBTcode_1.0.8.26102009_aarch64.dmg` |
 | Linux x86_64 | BFBT Code 终端版（TUI） | 见下方一行安装 | 推荐 `install-tui.sh`；Release 亦附 `bfbtcodetui-linux-x86_64.tar.gz` |
 | Android | DTworkeasy | 见独立仓库 | [DTworkeasy-Mobile](https://github.com/dongfutong/DTworkeasy-Mobile/releases) |
-| Bridge / 配对 | DT Agent Bridge | 见独立仓库 | [DTworkeasy-Bridge](https://github.com/dongfutong/DTworkeasy-Bridge/releases) |
+| Bridge / 配对 | BFBTbridge | 见独立仓库 | [BFBTbridge](https://github.com/dongfutong/BFBTbridge/releases) |
 
 Linux TUI 官方推荐一行安装：
 
