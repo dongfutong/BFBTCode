@@ -15,6 +15,6 @@ Linux one-line install:
 curl -fsSL 'https://www.dtrony.com/install-tui.sh' | sudo sh
 ```
 
-Sign in with the same Dongfutong account used on the website. BFBT Code requires an active trial or membership; DTworkeasy is free after registration. Set a model API key before chatting. Membership does not include model tokens.
+Sign in with the same Dongfutong account used on the website. BFBT Code and BFBTbridge require an active trial or membership; DTworkeasy is free after registration. Set a model API key before chatting. Membership does not include model tokens.
 
 Use Settings to configure language, model provider, API key, workspace, remote access, and permissions. Report issues through GitHub, Gitee, or the official feedback form, with secrets removed.

@@ -9,4 +9,4 @@
 - Android: DTworkeasy 1.0.6 (`.apk`)
 - macOS / iOS: 아직 제공하지 않습니다
 
-동복동 공식 계정으로 로그인합니다. BFBT Code는 체험 또는 회원 기간이 필요합니다. DTworkeasy는 가입 후 무료입니다.
+동복동 공식 계정으로 로그인합니다. BFBT Code와 BFBTbridge는 체험 또는 회원 기간이 필요합니다. DTworkeasy는 가입 후 무료입니다.

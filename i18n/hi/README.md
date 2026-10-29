@@ -9,4 +9,4 @@
 - Android: DTworkeasy 1.0.6 (`.apk`)
 - macOS / iOS: अभी उपलब्ध नहीं
 
-आधिकारिक Dongfutong खाते से साइन इन करें। BFBT Code के लिए ट्रायल या सदस्यता चाहिए; DTworkeasy पंजीकरण के बाद मुफ़्त है।
+आधिकारिक Dongfutong खाते से साइन इन करें। BFBT Code और BFBTbridge के लिए ट्रायल या सदस्यता चाहिए; DTworkeasy पंजीकरण के बाद मुफ़्त है।

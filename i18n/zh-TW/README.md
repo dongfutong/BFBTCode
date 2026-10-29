@@ -9,4 +9,4 @@
 - Android：DTworkeasy 1.0.6（`.apk`）
 - macOS / iOS：尚未上架
 
-啟動後用東復同官網帳號登入。BFBT Code 需試用或會員有效期；DTworkeasy 註冊即可免費使用。請先設定模型 API Key。完整說明以簡體中文與官網為準。
+啟動後用東復同官網帳號登入。BFBT Code 和 BFBTbridge 需試用或會員有效期；DTworkeasy 註冊即可免費使用。請先設定模型 API Key。完整說明以簡體中文與官網為準。

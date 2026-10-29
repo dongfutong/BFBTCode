@@ -9,4 +9,4 @@
 - Android: DTworkeasy 1.0.6 (`.apk`)
 - macOS / iOS: ད་དུང་མེད།
 
-Dongfutong ཐོབ་ཐང་གིས་ཐོ་འགོད་བྱོས། BFBT Code ལ་ཚོད་ལྟའམ་ཚོགས་མི་དགོས། DTworkeasy ནི་ཐོ་འགོད་རྗེས་རིན་མེད་ཡིན།
+Dongfutong ཐོབ་ཐང་གིས་ཐོ་འགོད་བྱོས། BFBT Code དང་ BFBTbridge ལ་ཚོད་ལྟའམ་ཚོགས་མི་དགོས། DTworkeasy ནི་ཐོ་འགོད་རྗེས་རིན་མེད་ཡིན།

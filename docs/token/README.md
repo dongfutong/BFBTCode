@@ -1,14 +1,14 @@
 # 会员权益
 
-试用期和付费会员的软件使用权相同。会员用来使用 BFBT Code 桌面版和 BFBT Code 终端版（TUI）。DTworkeasy 对所有非会员免费，只要注册登录即可使用。
+试用期和付费会员的软件使用权相同。会员用来使用 BFBT Code 桌面版、BFBT Code 终端版（TUI）和 BFBTbridge。DTworkeasy 对所有非会员免费，只要注册登录即可使用。
 
 大模型对话消耗的 Token 需自行向模型服务商购买，会员费不含大模型 Token。API Key 也不是会员凭证。
 
 ## 一句话对照
 
 - 未注册：可以浏览官网、下载安装包；不能登录客户端。
-- 试用中或付费会员有效：可以使用 BFBT Code 桌面版、BFBT Code 终端版，也可以使用 DTworkeasy。
-- 试用和会员都过期：BFBT Code 桌面版和终端版不能继续使用；DTworkeasy 仍可免费使用；官网账号仍可登录、下载和续费。
+- 试用中或付费会员有效：可以使用 BFBT Code 桌面版、BFBT Code 终端版和 BFBTbridge，也可以使用 DTworkeasy。
+- 试用和会员都过期：BFBT Code 桌面版、终端版和 BFBTbridge 不能继续使用；DTworkeasy 仍可免费使用；官网账号仍可登录、下载和续费。
 
 试用期与付费会员没有功能档位差别，差别只在有效期来源：试用是注册后自动开通，会员是付费或邀请奖励延长。
 
@@ -16,15 +16,16 @@
 
 - BFBT Code 桌面版（Windows）：需要试用或会员。登录后由服务端核验，客户端不能自行延长有效期。
 - BFBT Code 终端版（Linux TUI）：同样需要试用或会员，规则与桌面版相同。
-- DTworkeasy（Android）：不要求会员。非会员、试用过期用户都可以免费登录使用。设置里可以查看会员状态，也可以自愿购买会员，用来开通电脑上的 BFBT Code。
+- BFBTbridge（电脑端 Bridge / 配对组件）：同样需要试用或会员，规则与 BFBT Code 相同。
+- DTworkeasy（Android）：不要求会员。非会员、试用过期用户都可以免费登录使用。设置里可以查看会员状态，也可以自愿购买会员，用来开通电脑上的 BFBT Code 和 BFBTbridge。
 
 用手机远控电脑时，电脑上的 BFBT Code 必须处于试用或会员可用状态。只装 DTworkeasy、电脑端已过期，无法远控。
 
 ## 试用期
 
 - 用手机号注册成功后，自动开通 90 天免费试用。
-- 试用期内，BFBT Code 桌面版和终端版与付费会员同等可用。
-- 试用期内可随时订阅。到期前未订阅，试用结束当天起 BFBT Code 进入不可用状态；DTworkeasy 不受影响。
+- 试用期内，BFBT Code 桌面版、终端版和 BFBTbridge 与付费会员同等可用。
+- 试用期内可随时订阅。到期前未订阅，试用结束当天起 BFBT Code 和 BFBTbridge 进入不可用状态；DTworkeasy 不受影响。
 
 ## 付费套餐
 

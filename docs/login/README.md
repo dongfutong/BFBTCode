@@ -16,7 +16,7 @@
 2. 使用官网同一套账号和密码登录。
 3. 登录成功后返回主页面。
 
-Windows / Linux 上的 BFBT Code 需要试用或会员有效期内才能使用。DTworkeasy 注册即可免费使用。
+Windows / Linux 上的 BFBT Code 和 BFBTbridge 需要试用或会员有效期内才能使用。DTworkeasy 注册即可免费使用。
 
 ## 修改密码
 

@@ -9,4 +9,4 @@
 - Android：DTworkeasy 1.0.6（`.apk`）
 - macOS / iOS：未公開
 
-東復同の公式アカウントでログインします。BFBT Code は試用または会員期間が必要です。DTworkeasy は登録後無料です。
+東復同の公式アカウントでログインします。BFBT Code と BFBTbridge は試用または会員期間が必要です。DTworkeasy は登録後無料です。
