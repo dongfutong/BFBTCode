@@ -9,4 +9,4 @@ Descargue el instalador desde [Releases](../../releases) y siga la [guía de ins
 - Android: DTworkeasy 1.0.6 (`.apk`)
 - macOS / iOS: aún no disponible
 
-Inicie sesión con la cuenta oficial de Dongfutong. BFBT Code requiere prueba o membresía; DTworkeasy es gratuito tras el registro.
+Inicie sesión con la cuenta oficial de Dongfutong. BFBT Code y BFBTbridge requieren prueba o membresía; DTworkeasy es gratuito tras el registro.

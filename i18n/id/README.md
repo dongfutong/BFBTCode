@@ -9,4 +9,4 @@ Unduh pemasang dari [Releases](../../releases), lalu ikuti [panduan instalasi](.
 - Android: DTworkeasy 1.0.6 (`.apk`)
 - macOS / iOS: belum tersedia
 
-Masuk dengan akun resmi Dongfutong. BFBT Code memerlukan masa uji coba atau keanggotaan; DTworkeasy gratis setelah pendaftaran.
+Masuk dengan akun resmi Dongfutong. BFBT Code dan BFBTbridge memerlukan masa uji coba atau keanggotaan; DTworkeasy gratis setelah pendaftaran.
