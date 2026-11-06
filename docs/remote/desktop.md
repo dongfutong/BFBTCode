@@ -1,6 +1,8 @@
 # 用手机远控 BFBT Code 桌面版
 
-手机安装 DTworkeasy，电脑安装 BFBT Code 桌面版，用**同一套东复同账号**登录。
+手机安装 DTworkeasy，电脑安装 BFBT Code 桌面版（Windows 或 macOS Apple Silicon），用**同一套东复同账号**登录。电脑上的 BFBT Code 必须处于试用或会员可用状态。
+
+官网说明：<https://www.dtrony.com/docs/remote-desktop>
 
 ## 电脑上准备
 

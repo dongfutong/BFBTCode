@@ -1,8 +1,20 @@
 # 变更记录
 
-## 1.0.0 / 1.0.6（2026-08-21）
+## 1.0.8.26102008 / 1.0.8.26102009（2026-10-20）
 
 与官网 <https://www.dtrony.com> 当前安装包一致：
+
+- BFBT Code 桌面版 Windows 1.0.8.26102008：`BFBTcode_1.0.8.26102008_x64_en-US.msi`
+- BFBT Code 桌面版 macOS Apple Silicon 1.0.8.26102009：`BFBTcode_1.0.8.26102009_aarch64.dmg`
+- BFBT Code 终端版 Linux：推荐 `install-tui.sh`；Release 亦附 `bfbtcodetui-linux-x86_64.tar.gz`
+- DTworkeasy Android：独立仓库 [DTworkeasy-Mobile](https://github.com/dongfutong/DTworkeasy-Mobile)
+- DTworkeasy iOS：已上架 [App Store](https://apps.apple.com/cn/app/dtworkeasy/id6806894230)
+
+用户文档已按官网对齐：桌面版含 Windows 与 macOS，BFBT Code 需要试用或会员。
+
+## 1.0.0 / 1.0.6（2026-08-21）
+
+当时与官网安装包一致：
 
 - BFBT Code 桌面版 Windows 1.0.0：`BFBTcode_1.0.0_x64_en-US.msi`
 - BFBT Code 终端版 Linux 1.0.0：`bfbtcodetui-linux-x86_64.tar.gz`

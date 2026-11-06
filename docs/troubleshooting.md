@@ -1,28 +1,34 @@
 # 常见问题
 
+官网 FAQ：<https://www.dtrony.com/docs/faq> · 故障排除：<https://www.dtrony.com/docs/troubleshooting>
+
 ## 收不到验证码
 
 确认手机号正确，检查短信拦截，等倒计时结束再试。仍未收到请提交意见反馈。
 
 ## Windows 无法安装
 
-确认下载的是官网或本仓库 Release 中的 `.msi`。若出现 SmartScreen，点「更多信息」→「仍要运行」。不要从压缩包预览窗口直接运行。
+确认下载的是官网或本仓库 [Release](https://github.com/dongfutong/BFBTCode/releases) 中的 `.msi`。若出现 SmartScreen，点「更多信息」→「仍要运行」。不要从压缩包预览窗口直接运行。
 
-## macOS / iOS
+## macOS 无法打开
 
-macOS 桌面版和 DTworkeasy iOS 版暂未上架，敬请期待。
+确认下载的是官网或本仓库 Release 中的 Apple Silicon `.dmg`（Intel Mac 暂未提供）。第一次打开若提示来自身份不明的开发者，打开「系统设置」→「隐私与安全性」，点底部「仍要打开」。不要在 dmg 窗口里长期运行应用，应把 BFBTcode 拖进「应用程序」。
 
 ## Android 无法安装
 
-允许当前浏览器或文件管理器安装未知应用，再打开 APK。请只从官网或本仓库 Release 下载。
+允许当前浏览器或文件管理器安装未知应用，再打开 APK。请只从官网或 [DTworkeasy-Mobile](https://github.com/dongfutong/DTworkeasy-Mobile/releases) 下载。
+
+## iOS 在哪里下载
+
+DTworkeasy iOS 版在 App Store：<https://apps.apple.com/cn/app/dtworkeasy/id6806894230>
 
 ## Linux 提示找不到命令
 
-关闭终端后重新打开，再执行 `bfbtcodetui`。确认安装时没有报错。
+关闭终端后重新打开，再执行 `bfbtcodetui`。确认安装时没有报错。也可使用官网一行安装：`curl -fsSL 'https://www.dtrony.com/install-tui.sh' | sudo sh`。
 
 ## 软件没有 AI 回复
 
-检查 API Key、模型服务商和网络。桌面版在设置中重新保存；终端版输入 `/api status` 查看配置。
+检查 API Key、模型服务商和网络。桌面版在设置中重新保存；终端版输入 `/api status` 查看配置。会员费不含大模型 Token。
 
 ## 启动后无法登录
 
@@ -30,8 +36,8 @@ macOS 桌面版和 DTworkeasy iOS 版暂未上架，敬请期待。
 
 ## 手机连不上电脑
 
-确认电脑已登录、远程连接为 online，并且 BFBT Code 仍在试用或会员有效期内。同账号可直接扫码；其他账号需先加入白名单。
+确认电脑已登录、远程连接为 online，并且 BFBT Code 仍在试用或会员有效期内。同账号可直接扫码；其他账号需先加入白名单。Windows 与 macOS 桌面版、Linux 终端版都可以被 DTworkeasy 远控。
 
 ## 如何报告问题
 
-请提供软件名称（桌面版、终端版或 DTworkeasy）、版本、操作系统、错误提示、复现步骤和脱敏日志。不要上传源代码、密钥、Token、密码或个人数据。
+请提供软件名称（桌面版、终端版或 DTworkeasy）、版本、操作系统、错误提示、复现步骤和脱敏日志。不要上传源代码、密钥、Token、密码或个人数据。见 [问题反馈](../SUPPORT.md)。

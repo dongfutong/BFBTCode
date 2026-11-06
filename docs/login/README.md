@@ -2,21 +2,23 @@
 
 官网账号同时用于 BFBT Code 和 DTworkeasy，不需要再注册。用手机号注册，日常用账号和密码登录。
 
+官网：<https://www.dtrony.com> · 账号说明：<https://www.dtrony.com/docs/account-security>
+
 ## 注册
 
 1. 打开官网 <https://www.dtrony.com>，点击「注册」。
 2. 填写可接收短信的手机号，获取验证码。
 3. 设置密码后完成注册。
 
-请勿把验证码或密码告诉任何人。
+请勿把验证码或密码告诉任何人。新用户注册成功后，自动开通 90 天免费试用。
 
 ## 登录客户端
 
-1. 启动 BFBT Code 桌面版、终端版或 DTworkeasy。
+1. 启动 BFBT Code 桌面版（Windows / macOS）、终端版（Linux）或 DTworkeasy。
 2. 使用官网同一套账号和密码登录。
 3. 登录成功后返回主页面。
 
-Windows / Linux 上的 BFBT Code 和 BFBTbridge 需要试用或会员有效期内才能使用。DTworkeasy 注册即可免费使用。
+Windows / macOS / Linux 上的 BFBT Code 和 BFBTbridge 需要试用或会员有效期内才能使用。DTworkeasy 注册即可免费使用。
 
 ## 修改密码
 

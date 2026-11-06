@@ -1,6 +1,8 @@
 # 会员权益
 
-试用期和付费会员的软件使用权相同。会员用来使用 BFBT Code 桌面版、BFBT Code 终端版（TUI）和 BFBTbridge。DTworkeasy 对所有非会员免费，只要注册登录即可使用。
+试用期和付费会员的软件使用权相同。会员用来使用 BFBT Code 桌面版（Windows / macOS）、BFBT Code 终端版（Linux TUI）和 BFBTbridge。DTworkeasy 对所有非会员免费，只要注册登录即可使用。
+
+官网说明：<https://www.dtrony.com/docs/membership-benefits> · 定价以官网为准：<https://www.dtrony.com>
 
 大模型对话消耗的 Token 需自行向模型服务商购买，会员费不含大模型 Token。API Key 也不是会员凭证。
 
@@ -14,10 +16,10 @@
 
 ## 哪些软件需要会员
 
-- BFBT Code 桌面版（Windows）：需要试用或会员。登录后由服务端核验，客户端不能自行延长有效期。
+- BFBT Code 桌面版（Windows / macOS Apple Silicon）：需要试用或会员。登录后由服务端核验，客户端不能自行延长有效期。
 - BFBT Code 终端版（Linux TUI）：同样需要试用或会员，规则与桌面版相同。
 - BFBTbridge（电脑端 Bridge / 配对组件）：同样需要试用或会员，规则与 BFBT Code 相同。
-- DTworkeasy（Android）：不要求会员。非会员、试用过期用户都可以免费登录使用。设置里可以查看会员状态，也可以自愿购买会员，用来开通电脑上的 BFBT Code 和 BFBTbridge。
+- DTworkeasy（Android / iOS）：不要求会员。非会员、试用过期用户都可以免费登录使用。设置里可以查看会员状态，也可以自愿购买会员，用来开通电脑上的 BFBT Code 和 BFBTbridge。
 
 用手机远控电脑时，电脑上的 BFBT Code 必须处于试用或会员可用状态。只装 DTworkeasy、电脑端已过期，无法远控。
 

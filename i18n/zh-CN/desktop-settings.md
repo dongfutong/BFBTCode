@@ -1,5 +1,9 @@
 # Desktop 设置（简体中文）
 
+官网：<https://www.dtrony.com> · 文档：<https://www.dtrony.com/docs>
+
+BFBT Code 桌面版（Windows / macOS）需要试用或会员；会员费不含大模型 Token。
+
 在「设置」中可切换语言、配置模型服务、选择工作目录、管理远程连接和权限，并查看账号与会员状态。保存 API Key 前请确认使用的是官方服务；不要在截图、Issue 或日志中暴露 API Key、密码和 Token。
 
 手机远控时，可在 DTworkeasy 功能菜单把模型配置保存到这台电脑。
