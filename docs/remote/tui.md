@@ -1,6 +1,8 @@
 # 用手机远控 BFBT Code 终端版
 
-Linux 上运行 `bfbtcodetui`，手机用 DTworkeasy 远控。两边使用同一套东复同账号。
+Linux 上运行 `bfbtcodetui`，手机用 DTworkeasy 远控。两边使用同一套东复同账号。Linux 上的终端版必须处于试用或会员可用状态。
+
+官网说明：<https://www.dtrony.com/docs/remote-tui>
 
 ## 电脑上准备
 

@@ -1,10 +1,10 @@
 # 问题反馈
 
-请优先在官网「意见反馈」、GitHub 或 Gitee 提交问题，并选择清晰的标题。
+请优先在官网「意见反馈」、GitHub 或 Gitee 提交问题，并选择清晰的标题。使用说明见仓库文档和官网文档中心 <https://www.dtrony.com/docs>。
 
 建议包含：
 
-- 用的是哪款软件（BFBT Code 桌面版、终端版，或 DTworkeasy）
+- 用的是哪款软件（BFBT Code 桌面版 Windows/macOS、终端版，或 DTworkeasy）
 - 版本号
 - 操作系统和架构
 - 问题发生步骤
